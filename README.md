@@ -1,4 +1,4 @@
-# Hello, I'm Muhibbudin Suretno (SuretnoHQ) 👋
+# Hello, I'm Muhibbudin Suretno 👋
 
 - 🌐 **30 public repositories** with projects primarily using JavaScript, CSS, HTML, and TypeScript.
 - ⏳ **Joined GitHub 9 years ago** and have been actively contributing ever since.
