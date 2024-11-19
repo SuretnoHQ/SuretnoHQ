@@ -6,4 +6,4 @@ I enjoy exploring a mix of front-end and back-end technologies, though JavaScrip
 
 It’s been an incredible journey so far, and I’m excited to keep building, learning, and sharing with the developer community. 
 
-et’s create something amazing together!
+Let’s create something amazing together!
