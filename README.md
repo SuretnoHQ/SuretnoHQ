@@ -4,7 +4,7 @@ A passionate developer with nine years of experience transforming ideas into fun
 
 My GitHub journey is a testament to continuous learning and creative problem-solving. Each repository represents a unique challenge conquered, a problem solved, or an innovative concept brought to life. From intricate web applications to streamlined scripts, I'm committed to writing clean, efficient code that makes a difference.
 
-The nickname **"hibuno"** is a playful abbreviation derived from my full name "Mu*hib*budin S*u*ret*no*". Since **"hibuno"** could be a name or non-Japanese word, it might also be transliterated as **ヒブノ** in katakana, which is commonly used for names and borrowed words. It doesn’t inherently carry a meaning but is used phonetically.
+> The nickname **"hibuno"** is a playful abbreviation derived from my full name "Mu*hib*budin S*u*ret*no*". Since **"hibuno"** could be a name or non-Japanese word, it might also be transliterated as **ヒブノ** in katakana, which is commonly used for names and borrowed words. It doesn’t inherently carry a meaning but is used phonetically.
 
 Always eager to collaborate and push technological boundaries, I'm here to turn concepts into reality.
 
